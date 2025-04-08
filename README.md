@@ -48,10 +48,5 @@ Partie F : résolution automatique de la tour.
 🔄 Lancement du jeu
 Assurez-vous d’avoir Python 3 installé.
 
-Lancez le script dans un terminal :
-
-bash
-Copier
-Modifier
+Lancez le script dans un terminnal:
 python projethanoi.py
-Suivez les instructions affichées dans la console.
